@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 violations/
 yolov8n.pt
+# YOLO / Model files
+models/helmet_model.pt
